@@ -2,7 +2,6 @@ from fastai.vision.all import *
 from pathlib import Path
 import gradio as gr
 import torch
-import numpy as np
 import pathlib
 import os
 
