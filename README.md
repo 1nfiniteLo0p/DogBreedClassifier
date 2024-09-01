@@ -5,13 +5,13 @@ This project features a machine learning model designed to classify various dog 
 
 Features:
 
--Pre-trained deep learning models for dog breed classification.
--Support for transfer learning to improve model accuracy.
--Easy-to-use scripts for training and deploying the model on HuggingFace.
+- Pre-trained deep learning models for dog breed classification.
+- Support for transfer learning to improve model accuracy.
+- Easy-to-use scripts for training and deploying the model on HuggingFace.
 
 Folder Structure
 
--Production: Contains the code and materials necessary for deploying the model on HuggingFace.
--Train: Includes the code and dataset required to train the model. Open dog-breeds-classifier.ipynb to train the model or use the pre-trained model dog_breeds_clf_model.pkl.
+- Production: Contains the code and materials necessary for deploying the model on HuggingFace.
+- Train: Includes the code and dataset required to train the model. Open dog-breeds-classifier.ipynb to train the model or use the pre-trained model dog_breeds_clf_model.pkl.
 
 The HuggingFace web app for this project is available [here](https://huggingface.co/spaces/infin1ty/simple)
