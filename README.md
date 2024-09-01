@@ -13,6 +13,6 @@ Folder Structure
 - **Production**: Contains the code and materials necessary for deploying the model on HuggingFace.
 - **Train**: Includes the code and dataset required to train the model. Open `dog-breeds-classifier.ipynb` to train the model or use the pre-trained model `dog_breeds_clf_model.pkl`.
 
-The HuggingFace web app for this project is available [here](https://huggingface.co/spaces/infin1ty/DogBreedClassifier)
+The HuggingFace web app for this project is available [here](https://huggingface.co/spaces/infin1ty/DogBreedClassifier).
 
-The dataset can be found on kaggle [here](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset) or from the original data source [here](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+The dataset can be found on kaggle [here](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset) or from the original data source [here](http://vision.stanford.edu/aditya86/ImageNetDogs/).
