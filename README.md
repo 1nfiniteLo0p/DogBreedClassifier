@@ -14,4 +14,4 @@ Folder Structure
 - Production: Contains the code and materials necessary for deploying the model on HuggingFace.
 - Train: Includes the code and dataset required to train the model. Open `dog-breeds-classifier.ipynb` to train the model or use the pre-trained model `dog_breeds_clf_model.pkl`.
 
-The HuggingFace web app for this project is available [here](https://huggingface.co/spaces/infin1ty/simple)
+The HuggingFace web app for this project is available [here](https://huggingface.co/spaces/infin1ty/DogBreedClassifier)
